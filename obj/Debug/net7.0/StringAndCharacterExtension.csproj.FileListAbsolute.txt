@@ -1,0 +1,15 @@
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\bin\Debug\net7.0\StringAndCharacterExtension.exe
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\bin\Debug\net7.0\StringAndCharacterExtension.deps.json
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\bin\Debug\net7.0\StringAndCharacterExtension.runtimeconfig.json
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\bin\Debug\net7.0\StringAndCharacterExtension.dll
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\bin\Debug\net7.0\StringAndCharacterExtension.pdb
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\obj\Debug\net7.0\StringAndCharacterExtension.csproj.AssemblyReference.cache
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\obj\Debug\net7.0\StringAndCharacterExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\obj\Debug\net7.0\StringAndCharacterExtension.AssemblyInfoInputs.cache
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\obj\Debug\net7.0\StringAndCharacterExtension.AssemblyInfo.cs
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\obj\Debug\net7.0\StringAndCharacterExtension.csproj.CoreCompileInputs.cache
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\obj\Debug\net7.0\StringAndCharacterExtension.dll
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\obj\Debug\net7.0\refint\StringAndCharacterExtension.dll
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\obj\Debug\net7.0\StringAndCharacterExtension.pdb
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\obj\Debug\net7.0\StringAndCharacterExtension.genruntimeconfig.cache
+C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\obj\Debug\net7.0\ref\StringAndCharacterExtension.dll

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>StringandCharExtensionUtilities</id>
+    <version>2.0.0</version>
+    <authors>StringAndCharacterExtension</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>Readme.md</readme>
+    <description>C# library Class that provides a set of string and character extension methods to enhance text processing:</description>
+    <tags>string,char,vowel,consonant,email</tags>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\bin\Debug\net7.0\StringAndCharacterExtension.runtimeconfig.json" target="lib\net7.0\StringAndCharacterExtension.runtimeconfig.json" />
+    <file src="C:\Users\oogunjemilua\Documents\ProjectRepos\StringExtension\bin\Debug\net7.0\StringAndCharacterExtension.dll" target="lib\net7.0\StringAndCharacterExtension.dll" />
+    <file src="C:\Users\oogunjemilua\OneDrive - Central Securities Clearing System Plc\Documents\NIGHT SHIFT\Readme.md" target="\Readme.md" />
+  </files>
+</package>
