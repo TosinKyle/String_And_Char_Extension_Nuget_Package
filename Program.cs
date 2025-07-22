@@ -57,7 +57,7 @@ namespace StringExtension
                 {
                     if (vowels.Contains(d))
                     {
-                        count--;
+                        count++;
                     }
                 }
             }
